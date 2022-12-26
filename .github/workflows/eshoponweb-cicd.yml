@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 549425b5-279a-4dfe-b2a6-c624329cc3b5
   WEBAPP-NAME: az400-webapp-jasper-1226
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
